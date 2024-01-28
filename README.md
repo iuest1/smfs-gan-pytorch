@@ -7,8 +7,8 @@
 ###  1. Clone the repository
 
 ```bash
-$ git clone https://github.com/CrazyDavee/smfs-gan-master.git
-$ cd smfs-gan-master
+$ git https://github.com/iuest1/smfs-gan-pytorch.git
+$ cd smfs-gan-pytorch
 ```
 
 ### 2. Prepare Datasets
